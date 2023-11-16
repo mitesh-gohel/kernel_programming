@@ -1,0 +1,1 @@
+cmd_/home/mitesh/mitesh_workspace/practice/kernel_programming/p11/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/mitesh/mitesh_workspace/practice/kernel_programming/p11/Module.symvers -T /home/mitesh/mitesh_workspace/practice/kernel_programming/p11/modules.order -i Module.symvers -e 

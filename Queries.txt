@@ -1,0 +1,25 @@
+--> Why compiler gives error when we use #include<stdio.h> in module ?
+fatal error: stdio.h: No such file or directory
+    7 | #include<stdio.h>
+
+--> Why ther is no man page in ubuntu for api like get_num_physpages, kmalloc, vmalloc ?
+$ man get_num_physpages
+No manual entry for get_num_physpages
+	--> Ans : No man page for kernel. Need to refer kernel documents
+
+--> Why can't we print float value in kernel module ?
+
+--> What is meaning of "return -ENOMEM;" ?
+
+--> What is print_hex_dump_bytes() ?
+
+--> Understand meaning of :
+[  154.479569] BUG: kernel NULL pointer dereference, address: 0000000000000000
+[  154.479572] #PF: supervisor write access in kernel mode
+[  154.479573] #PF: error_code(0x0002) - not-present page
+
+Log : ~/mitesh_workspace/practice/kernel_programming/p12_bkp/dmesg_log.txt
+
+--> If modules is killed during loading, then we correct module, then why it is not able to load ?
+
+

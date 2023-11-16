@@ -1,0 +1,15 @@
+hello-1 - Basic module program
+hello-2 - To compile 2 modules at a same time
+
+p1 - Sample module
+p2 - Find total phycial memmory
+p3 - Check : which header files are required for simple kernel module
+p4 - How to get physical address of page
+p5 - How to allocate page using alloc_page()
+p6 - How to allocate page using __get_free_page()
+p7 - Try to allocate all pages
+p8 - To confirm that max 4MB of memory can be allocate by slab allocator
+p9 - To check memory waste by slab allocator
+p10 - Private cache
+p11 - Fragment allocator - vmalloc()
+p12 - Demo code of DMA allocation using consistent API

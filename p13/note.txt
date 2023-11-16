@@ -1,0 +1,8 @@
+******************************************************************
+Understand page, frame, physical localion, page translatioo,...
+******************************************************************
+
+
+kernel virtual address (page no. + offset) >>> page decribtor >>> physical address (frame no. + offset)
+
+

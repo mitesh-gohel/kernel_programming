@@ -1,0 +1,4 @@
+==> hello2.c
+linux/init.h : used for module_init() and module_exit() macro function
+module_init(), module_exit() : using it we can give any name to stat(initialization) and end(cleanup) function
+

@@ -1,0 +1,11 @@
+==> hello1.o
+linux/module.h : used for module
+linux/kernel.h : used for log level (KERN_INFO)
+
+init_module() : start(initialization) function
+cleanup_module() : end(cleanup) function
+
+
+==> Makefile
+M=$(PWD) : indicate that module is out of tree (in pwd)
+
